@@ -1,2 +1,2 @@
 # Morse-code-conventor
-Micro-controller project. Created in Proteus Design Suite
+Microcontroller project. Created in Proteus Design Suite
